@@ -3,7 +3,6 @@
 **Empowering your creativity through AI-driven visual storytelling.**  
 Turn your ideas, sketches, and story scenes into high-quality visuals, register your IP, and monetize your content—all in one seamless workflow.
 
----
 
 ## 🚀 What It Does
 
@@ -14,7 +13,6 @@ VisualizeIt.ai allows creators to:
 
 Whether you're a writer, artist, or storyteller, VisualizeIt.ai simplifies the creative pipeline—from ideation to income.
 
----
 
 ## ❓ The Problem It Solves
 
@@ -25,15 +23,12 @@ Creating professional visuals is:
 
 VisualizeIt.ai solves this by automating visual generation, protecting intellectual property, and offering monetization tools—without needing design or blockchain expertise.
 
----
-
 ## 🧠 What We Learned
 
 - Decentralized IP protection is still evolving—simplifying the UX is crucial.
 - Creators value *ownership* and *ease of use* above all.
 - Integration between Web2 UX and Web3 infrastructure is key for mainstream adoption.
 
----
 
 ## 🔧 How We Built It
 
@@ -44,7 +39,6 @@ VisualizeIt.ai solves this by automating visual generation, protecting intellect
 - **NFT Monetization**: `Zora SDK` for minting and publishing assets
 - **Storage**: `IPFS` / `Filecoin` for decentralized storage
 
----
 
 ## 🧩 Challenges We Ran Into
 
@@ -53,7 +47,7 @@ VisualizeIt.ai solves this by automating visual generation, protecting intellect
 - Latency when rendering high-resolution outputs
 - Bridging the gap between creative workflows and blockchain infrastructure
 
----
+
 
 ## 🔮 What's Next
 
@@ -63,7 +57,7 @@ VisualizeIt.ai solves this by automating visual generation, protecting intellect
 - 🛍 Creator marketplace with audience engagement tools
 - 🧠 Multi-style AI generation and interactive storytelling
 
----
+
 
 ## 🛠 Technologies Used
 
@@ -76,13 +70,36 @@ VisualizeIt.ai solves this by automating visual generation, protecting intellect
 | Node.js         | API integration and backend logic            |
 | IPFS / Filecoin | Decentralized storage for media assets       |
 
----
+## App Demo Screenshots
+
+**_Landing Page_**
+![image](/public/landing-page.png)
+
+**_Dashboard_**
+![image](/public/dashboard.png)
+
+**_Scene Generation_**
+![image](/public/scene-generation.png)
+
+**_My Assets_**
+![image](/public/my-assets.png)
+
+**_Register IP_**
+![image](/public/register-ip.png)
+
+**_Create Collection on Zora_**
+![image](/public/create-collection-on-zora.png)
+
+**_IP Asset on Story Explorer_**
+![image](/public/ip-asset-on-story-explorer.png)
+
+**_Mint Page on Zora_**
+![image](/public/mint-page-on-zora.png)
 
 ## 🤝 Team
 
 Built with ❤️ at [Wave Hacks](https://app.akindo.io/wave-hacks/7maJP63Qqhd9e4aVQ)
 
----
 
 ## 📄 License
 
